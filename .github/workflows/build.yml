@@ -1,4 +1,4 @@
-name: OEM Builder
+name: OEM GSI Builder
 
 on:
   workflow_dispatch:
